@@ -6657,7 +6657,7 @@ figcaption {
 }
 
 .background-video {
-  background-image: linear-gradient(#000, #0000);
+  background-image: linear-gradient(0deg, #000, #0000);
   width: 100vw;
   height: 100vh;
   position: absolute;
